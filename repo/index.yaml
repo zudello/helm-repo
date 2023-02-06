@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  zudello-helm:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-02-06T12:02:37.067145+10:00"
+    description: Zudello shared helm templates
+    digest: 1f81057ae3e8c2c242ca4596fa1bf7a1396bfb03492ef1665e5f14d9a11822dd
+    name: zudello-helm
+    type: library
+    urls:
+    - zudello-helm-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-02-06T12:02:37.065921+10:00"
